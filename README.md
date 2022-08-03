@@ -1,5 +1,5 @@
 # TicTactoe
  Tictactoe using Java.
-<b>code by [Supriyo-Swda](https://github.com/Supsource )</b>
+<b>code by [Yousuf] </b>
 ### 👍 HAVE FUN 👍
-Thanks, Swda!!
+Thanks !!
